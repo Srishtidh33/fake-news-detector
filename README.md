@@ -33,12 +33,12 @@ You can try the Fake News Detection app here:
 https://fake-news-ml-detector.streamlit.app/
 
 ## Demo Screenshot
-<img width="873" height="771" alt="image" src="https://github.com/user-attachments/assets/23fb9a88-c221-4766-8aa5-7caff93b9302" />
+<img width="721" height="787" alt="image" src="https://github.com/user-attachments/assets/223d5093-704e-4d39-8057-6bf542e769bf" />
 
 ## Run Locally
 Clone the project:
 
-git clone https://github.com/yourusername/fake-news-detection-ml.git
+git clone https://github.com/Srishtidh33/fake-news-detector.git
 
 Install dependencies:
 
